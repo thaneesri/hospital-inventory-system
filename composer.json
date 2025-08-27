@@ -1,14 +1,23 @@
 {
-    "name": "inventory/hospital-inventory-system",
+    "name": "thaneesri/hospital-inventory-system",
     "description": "A simple inventory management system for primary healthcare centers in Thailand.",
     "type": "project",
     "require": {
-        "phpoffice/phpspreadsheet": "^1.18"
+        "phpoffice/phpspreadsheet": "^1.29",
+        "thaneesri/hospital-inventory-system": "dev-main"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/thaneesri/hospital-inventory-system"
+        }
+    ],
     "authors": [
         {
             "name": "Thanee Ssm",
             "email": "cogcorp@gmail.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
