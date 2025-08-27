@@ -1,0 +1,14 @@
+{
+    "name": "inventory/hospital-inventory-system",
+    "description": "A simple inventory management system for primary healthcare centers in Thailand.",
+    "type": "project",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.29"
+    },
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "you@example.com"
+        }
+    ]
+}
