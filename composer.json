@@ -1,6 +1,6 @@
 {
-    "name": "thaneesri/hospital-inventory-system",
-    "description": "A simple inventory management system for primary healthcare centers in Thailand.",
+    "name": "myproject/inventory",
+    "description": "Inventory main project",
     "type": "project",
     "require": {
         "phpoffice/phpspreadsheet": "^1.29",
